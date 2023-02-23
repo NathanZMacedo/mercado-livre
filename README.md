@@ -1,10 +1,10 @@
-# comandos para o git hub:
+# Comandos para o git hub:
 
-## clonar o repositorio:
+## Clonar o repositorio:
 
 ```git clone git@github.com-Nathan:NathanZMacedo/mercado-livre.git```
 
-### clonar na escola:
+### Clonar na escola:
 
 ```git clone git@github.com:NathanZMacedo/mercado-livre.git```
 
@@ -18,18 +18,18 @@
 
 ## Enviar as mudanças pro github:
 
-## enviar na escola:
+## Enviar na escola:
 
 ```git push git@github.com-Nathan:NathanZMacedo/mercado-livre.git```
 
-### enviar em casa:
+### Enviar em casa:
 
 ```git push git@github.com:NathanZMacedo/mercado-livre.git```
 
-## criar uma branch (VERSÃO PARA TESTES) nova:
+## Criar uma branch (VERSÃO PARA TESTES) nova:
 
 ``` git checkout -b "nome da branch" ```
 
-## trocar de branch depois de criada:
+## Trocar de branch depois de criada:
 
 ``` git checkout nome da branch ```
