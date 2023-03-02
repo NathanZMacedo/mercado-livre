@@ -33,3 +33,11 @@
 ## Trocar de branch depois de criada:
 
 ``` git checkout nome da branch ```
+
+## configurar o email :
+
+```git config --global user.email "nathanzmacedo@gmail.com" ```
+
+## configurar o name :
+
+```git config --global user.name "NathanZMacedo" ```
