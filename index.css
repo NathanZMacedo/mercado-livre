@@ -22,3 +22,9 @@
     width:  25vw;
     height: 55px;
 }
+#cep-text{
+    flex-direction: row;
+}
+#center{
+    -ms-flex-align: center;
+}
