@@ -26,6 +26,17 @@
 
 ```git push git@github.com:NathanZMacedo/mercado-livre.git```
 
+### Atualizar o Projeto:
+
+## Atualizar na escola:
+
+```git pull git@github.com-Nathan:NathanZMacedo/mercado-livre.git```
+
+### Atualizar em casa:
+
+```git pull git@github.com:NathanZMacedo/mercado-livre.git```
+
+
 ## Criar uma branch (VERSÃO PARA TESTES) nova:
 
 ``` git checkout -b "nome da branch" ```
