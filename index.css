@@ -28,3 +28,6 @@
 #center{
     -ms-flex-align: center;
 }
+.card{
+    flex-direction: row;
+}
